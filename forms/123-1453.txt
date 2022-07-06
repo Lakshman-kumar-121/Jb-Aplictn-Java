@@ -1,0 +1,11 @@
+Name :123
+Gender : Male
+Number :1232322222
+Mail :2222
+Age :22
+Languages known :1
+Experience : 1 year
+Status :  Single
+Qualification :2
+Parent name :22
+Comments :2

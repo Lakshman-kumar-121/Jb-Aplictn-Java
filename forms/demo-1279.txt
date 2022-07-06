@@ -1,0 +1,11 @@
+Name :demo
+Gender : Male
+Number :1234567890
+Mail :23123
+Age :21
+Languages known :1
+Experience : 1 year
+Status :  Single
+Qualification :23
+Parent name :23
+Comments :23
