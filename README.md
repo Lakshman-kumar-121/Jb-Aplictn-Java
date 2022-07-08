@@ -1,6 +1,6 @@
 # Enhanced job application using java
 In this project I have created a simple Graphical interface job application with unique id and easy refactor system.
-This application also have a login page which company the admin rights.
+This application also have a login page where company can have admin rights.
 
 # Authentication for this program
 Id is "L"
