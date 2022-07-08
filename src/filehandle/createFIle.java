@@ -1,4 +1,4 @@
-package Mycode;
+package filehandle;
 
 import java.awt.Frame;
 import java.io.File;
